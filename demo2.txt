@@ -1,0 +1,1 @@
+This is new file created using function and write the file	adding the new lines  to file 
